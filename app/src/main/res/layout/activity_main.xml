@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:background="#FFFFFF"
         android:padding="10sp"
-        android:text="Show Snackbar"
+        android:text="@string/stringShowSnackBar"
         android:textAllCaps="false"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"

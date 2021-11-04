@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">CustomSnackBar</string>
     <string name="stringExampleSnackView">Snack View Example</string>
+    <string name="stringShowSnackBar">Show SnackBar</string>
 </resources>
